@@ -1,9 +1,9 @@
 ul {
   list-style-type: none;
-  margin: 1px;
-  padding: 0,5px 30px;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
-  background-color: hsl(204, 89%, 63%);
+  background-color: #333;
 }
 
 li {
@@ -11,23 +11,14 @@ li {
 }
 
 li a {
-  display:block;
+  display: block;
   color: white;
   text-align: center;
-  padding: 20px 16px;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: x-large;
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #1d9df3;
+  background-color: #111;
 }
-
-#rech {
-  
-  float: right;
-}
-a {
-    
-} 
